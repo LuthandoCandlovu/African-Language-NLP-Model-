@@ -379,7 +379,7 @@ A **massively multilingual transformer** providing strong cross-lingual transfer
 | isiZulu Accuracy | 79.8% | **82.1%** ⭐ |
 | Inference Speed | **Fast** | Moderate |
 | Language Coverage | 100 langs | 11 African langs |
-| African-specific BPE | ❌ | ✅ |
+| African-specific BPE |  |  |
 | Recommended For | Production · Speed | Research · Accuracy |
 
 ---
@@ -607,7 +607,7 @@ pytest tests/
 # 4. Push your branch
 git push origin feature/your-feature-name
 
-# 5. Open a Pull Request 🎉
+# 5. Open a Pull Request 
 ```
 
 > Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) and follow the [Code of Conduct](CODE_OF_CONDUCT.md).
@@ -618,7 +618,7 @@ git push origin feature/your-feature-name
 
 ```
 MIT License — Free to use, modify, and distribute with attribution.
-Copyright (c) 2024 your-org
+Copyright (c) 2026 your-org
 ```
 
 See the [`LICENSE`](LICENSE) file for full details.
