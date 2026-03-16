@@ -1,0 +1,19 @@
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Project specific
+data/raw/   # (exclude raw data if you don't want it in repo)
+models/     # exclude model files (too large)
+*.log
+.DS_Store

@@ -1,0 +1,31 @@
+# Core
+pandas
+numpy
+
+# Preprocessing
+nltk
+sentencepiece
+emoji
+
+# ML / DL
+scikit-learn
+transformers
+datasets
+torch
+torchvision
+torchaudio
+
+# Evaluation & viz
+matplotlib
+seaborn
+scikit-plot
+
+# API
+flask
+flask-cors
+gunicorn
+
+# Utilities
+pyyaml
+tqdm
+joblib

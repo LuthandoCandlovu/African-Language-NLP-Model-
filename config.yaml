@@ -1,0 +1,25 @@
+# config.yaml
+data:
+  raw_path: "data/raw/"
+  processed_path: "data/processed/"
+  external_path: "data/external/"
+  train_file: "train.csv"
+  val_file: "val.csv"
+  test_file: "test.csv"
+
+model:
+  name: "xlm-roberta-base"  # or "afroxmlr" or "bert-base-multilingual-cased"
+  save_path: "models/"
+  max_length: 128
+  batch_size: 16
+  epochs: 5
+  learning_rate: 2e-5
+
+training:
+  seed: 42
+  device: "cuda"  # or "cpu"
+  num_workers: 4
+
+api:
+  host: "0.0.0.0"
+  port: 5000
