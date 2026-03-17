@@ -15,7 +15,7 @@
 <!-- CORE TECH BADGES -->
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co)
+[![HuggingFace](https://img.shields.io/badge/_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-D4A843?style=for-the-badge)](LICENSE)
 
