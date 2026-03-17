@@ -469,7 +469,7 @@ Based on **SAfriSenti** (Twitter sentiment corpus for isiXhosa and isiZulu), our
 
 <div align="center">
 
-### 🏆 Benchmark Results
+###  🏆 Benchmark Results
 
 | 🤖 Model | 🗣️ Language | 🎯 Accuracy | 📊 F1-Score | 🔬 Precision | 🔁 Recall |
 |:---|:---:|:---:|:---:|:---:|:---:|
